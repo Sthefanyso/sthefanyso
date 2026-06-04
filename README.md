@@ -12,119 +12,12 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Itu e atuo no d
 
 ## 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefany-souza-5baa91228/)
+<p align="center"> <a href="https://www.linkedin.com/in/sthefany-souza-5baa91228/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:sthefanydsilva29@email.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sthefanydsilva29@email.com)
+##  Linguagens e Tecnologias 
+<table align="center"> <tr> <td align="center"><strong>Front-End</strong></td> <td> <img title="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" /> <img title="CSS3" src="https://skillicons.dev/icons?i=css&theme=dark" /> <img title="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" /> <img title="TypeScript" src="https://skillicons.dev/icons?i=ts&theme=dark" /> <img title="React" src="https://skillicons.dev/icons?i=react&theme=dark" /><img title="TailwindCSS" src="https://skillicons.dev/icons?i=tailwind&theme=dark" /> <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /> <img title="Vite" src="https://skillicons.dev/icons?i=vite&theme=dark" /> </td> </tr> <tr> <td align="center"><strong>Back-End</strong></td> <td> <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /> <img title="Express.js" src="https://skillicons.dev/icons?i=express&theme=dark" /> <img title="Python" src="https://skillicons.dev/icons?i=python&theme=dark" /> </td> </tr> <tr> <td align="center"><strong>Database</strong></td> <td> <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> <img title="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /> <img title="Firebase" src="https://skillicons.dev/icons?i=firebase&theme=dark" /> </td> </tr> <tr> <td align="center"><strong>Cloud & Tools</strong></td> <td> <img title="AWS" src="https://skillicons.dev/icons?i=aws&theme=dark" /> <img title="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /> <img title="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /> <img title="Figma" src="https://skillicons.dev/icons?i=figma&theme=dark" /> </td> </tr> </table>
 
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-/>
-<br/>
-<br/>
 
 ### 🧠 Conhecimentos 
 
@@ -133,22 +26,6 @@ Sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Itu e atuo no d
 - Versionamento com Git
 
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sthefanyso&show_icons=true&theme=tokyonight" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sthefanyso&layout=compact&theme=tokyonight" 
-  />
-
-</p>
+<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sthefanyso&theme=radical"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sthefanyso&theme=radical"/> </div>
